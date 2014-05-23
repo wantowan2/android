@@ -1,18 +1,17 @@
 Getting Started
 ---------------
 
-To get started with Android/BeanStalk, you'll need to get
+To get started with Android/katstalk, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the BeanStalk trees, use a command like this:
+To initialize your local repository using the katstalk trees, use a command like this:
 
-    repo init -u git://github.com/scotthartbti/android.git -b kk44
+    repo init -u git://github.com/katstalk/android.git -b kk44
 
 Then to sync up:
 
     repo sync
 
-Please see any of the official beanstalk XDA threads for building instructions.
 
 For more information on this Github Organization and how it is structured, 
 please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
